@@ -19,47 +19,52 @@ After that we have to push it on Github.
 
 ### HTML:
 
-    - write HTML proprely, 
-    - make the result looks like the picture,
-    - implement incons with CDN.
+    * write HTML proprely, 
+    * make the result looks like the picture,
+    * implement incons with CDN.
 
 ### CSS:
 
-    - write style.css and link it with the HTML page,
-    - separate elements into different blocks,
-    - implement police from [Google font] (https://fonts.google.com/)
+    * write style.css and link it with the HTML page,
+    * separate elements into different blocks,
+    * implement police from [Google font] (https://fonts.google.com/)
 
-### Responsive web design
+### Responsive web design:
 
-    - use the [RWD media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+    * use the [RWD media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 ### Git and Github:
 
-    - create repository and clone it on our local machine,
-    - create README.md,
-    - open files and work on it,
-    - adding files
-    ```bash
+    * create repository and clone it on our local machine,
+    * create README.md,
+    * open files and work on it,
+    * adding files
+
+    ```
     Git add <file>
-    ````
-    - commit files
-    ```bash
+    ```
+    * commit files
+
+    ```
     Git commit -m "name of the commit"
-    - push the local repository on the remote repository,
-    ```bash
-    Git push 
+    ```
+    * push the local repository on the remote repository,
+
+    ```
+    Git push
+    ```
 
 
 ### You can find the website with this link: ##
 
     https://corentinistace.github.io/website-berners-lee/
 
-    
+
 ## Contact
 
 Corentin Istace 
 
-E-mail: corentinistace1@gmail.com
-Github: https://github.com/corentinIstace
-Linkedin: https://www.linkedin.com/in/corentin-istace-03681020a/
+E-mail: corentinistace1@gmail.com  
+Github: https://github.com/corentinIstace  
+Linkedin: https://www.linkedin.com/in/corentin-istace-03681020a/  
 
