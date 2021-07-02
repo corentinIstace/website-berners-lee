@@ -37,7 +37,13 @@ After that we have to push it on Github.
 
 - create repository and clone it on our local machine,
 - create README.md,
+
+    code README.md
+
 - open files and work on it,
+
+    code <file>
+
 - adding files
 
 
@@ -57,7 +63,7 @@ After that we have to push it on Github.
 
 ### You can find the website with this link: ##
 
-    [(https://corentinistace.github.io/website-berners-lee/)]
+    [https://corentinistace.github.io/website-berners-lee/](https://corentinistace.github.io/website-berners-lee/)
 
 
 ## Contact
