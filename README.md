@@ -19,40 +19,40 @@ After that we have to push it on Github.
 
 ### HTML:
 
-..* write HTML proprely, 
-..* make the result looks like the picture,
-..* implement incons with CDN.
+- write HTML proprely, 
+- make the result looks like the picture,
+- implement incons with CDN.
 
 ### CSS:
 
-..* write style.css and link it with the HTML page,
-..* separate elements into different blocks,
-..* implement police from [Google font] (https://fonts.google.com/)
+- write style.css and link it with the HTML page,
+- separate elements into different blocks,
+- implement police from [Google font] (https://fonts.google.com/)
 
 ### Responsive web design:
 
-..* use the [RWD media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+- use the [RWD media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
-### Git and Github:
+### Git and [Github](https://education.github.com/git-cheat-sheet-education.pdf):
 
-..* create repository and clone it on our local machine,
-..* create README.md,
-..* open files and work on it,
-..* adding files
+- create repository and clone it on our local machine,
+- create README.md,
+- open files and work on it,
+- adding files
 
-    ```
+
     Git add <file>
-    ```
-..* commit files
 
-    ```
+- commit files
+
+
     Git commit -m "name of the commit"
-    ```
-..* push the local repository on the remote repository,
 
-    ```
+- push the local repository on the remote repository,
+
+
     Git push
-    ```
+
 
 
 ### You can find the website with this link: ##
