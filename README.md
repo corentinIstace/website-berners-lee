@@ -2,14 +2,14 @@
 
 On this repository, you can find a website create about __Tim Berners-Lee__.
 
-It's will be create in my [BeCode](https://becode.org/fr/) formation for learning the principles of:
+It's create for my [BeCode](https://becode.org/fr/) formation for learning the principles of:
 
 1. HTML
 2. CSS
 3. responsive web design 
 4. using GIT and Github
 
-On this formation, we're learning the [HTML sementic elements](https://www.w3schools.com/html/html5_semantic_elements.asp) and the principles of the HTML.
+With this formation, we're learning the [HTML sementic elements](https://www.w3schools.com/html/html5_semantic_elements.asp) and the principles of the HTML.
 
 ## Objectives
 
