@@ -38,32 +38,38 @@ After that we have to push it on Github.
 - create repository and clone it on our local machine,
 - create README.md,
 
+    ```HTML
     code README.md
+    ```
 
 - open files and work on it,
 
-    code <file>
-
+    ```HTML
+    code < file >
+    ```
+    
 - adding files
 
-
-    Git add <file>
+    ```HTML
+    Git add < file >
+    ```
 
 - commit files
 
-
+    ```HTML
     Git commit -m "name of the commit"
+    ```
 
 - push the local repository on the remote repository,
 
-
+    ```HTML
     Git push
-
+    ```
 
 
 ### You can find the website with this link: ##
 
-    [https://corentinistace.github.io/website-berners-lee/](https://corentinistace.github.io/website-berners-lee/)
+    https://corentinistace.github.io/website-berners-lee/
 
 
 ## Contact
